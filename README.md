@@ -10,3 +10,4 @@ Move the catcher along the bottom of the screen to catch each egg before it touc
 Beware: the more eggs you catch, the more frequently new eggs appear at the top of the screen and the faster they fall. Lose all three lives and the game ends. 
 
 
+![image](https://github.com/AbrilDm14/Egg_Catcher_Game/assets/130613750/10c10f16-596e-4f7e-8860-f09684cf2723)
