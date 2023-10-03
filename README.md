@@ -2,7 +2,7 @@
 
 ### Objective:
 
-Catch as many eggs as you can to get a high score. 
+Catch as many eggs as you can to get a high score 🥚 
 
 ### How does it work?
 
