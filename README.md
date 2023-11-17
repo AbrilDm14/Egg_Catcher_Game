@@ -1,4 +1,4 @@
-# Egg CatcherGame
+# Egg Catcher Game
 
 ### Objective:
 
